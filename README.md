@@ -6,7 +6,7 @@ Cuma Bisa Berbuat Apa Yang Bisa Dibuat...!!!
 
 # TIDAK SEMUA HP MENDUKUNG
 # HASIL BOCAH
-![Screenshot_20220816_194253](https://user-images.githubusercontent.com/98962829/184871830-47d2d887-cb7c-49c2-a24d-7195d04ee06c.jpg)
+![Screenshot_20220816_195652](https://user-images.githubusercontent.com/98962829/184873904-280bfd16-e6f1-487c-b1d0-67aff8252fa1.jpg)
 
 ## install on termux
 ```
