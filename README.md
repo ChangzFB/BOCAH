@@ -5,9 +5,6 @@ Cuma Bisa Berbuat Apa Yang Bisa Dibuat...!!!
 
 
 # TIDAK SEMUA HP MENDUKUNG
-#  KINGFB
-![IMG_20220722_122001](https://user-images.githubusercontent.com/98962829/180361829-cc906ecc-660a-4af5-bbfc-57de7d0cc762.jpg)
-
 # HASIL BOCAH
 ![Screenshot_20220816_194253](https://user-images.githubusercontent.com/98962829/184871830-47d2d887-cb7c-49c2-a24d-7195d04ee06c.jpg)
 
@@ -27,24 +24,25 @@ Cuma Bisa Berbuat Apa Yang Bisa Dibuat...!!!
 
  pip2 install bs4
 
-python3 -m pip install requests bs4
+ python3 -m pip install requests bs4
 
- rm -rf KINGFB
+ rm -rf BOCAH
 
- git clone https://github.com/ChangzFB/KINGFB
+ git clone https://github.com/ChangzFB/BOCAH
 
- cd KINGFB
+ cd BOCAH
  
- python run.py
+ python son.py
 ```
 ## Cara Update
 ```php
-rm -rf KINGFB
+rm -rf BOCAH
+git clone https://github.com/ChangzFB/BOCAH
 cd
-cd KINGFB
+cd BOCAH
 ls
 git pull
-python run.py
+python son.py
 ```
 
 # Instalation
@@ -59,4 +57,3 @@ Download apk Termuxnya disini biar ngga error ✓
 ## KASIH BINTANG YAH BOCIL 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Selamat+Bersenang-senang....!+)
-
